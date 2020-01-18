@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cards>
+  <Card PIN="998825/4578">
+    <Name>Ondra</Name>
+    <Email>ondra@gmail.com</Email>
+  </Card>
+  <Card PIN="987654312">
+    <Name>Lucie</Name>
+    <Email>Skutova</Email>
+  </Card>
+  <Card PIN="jhjk">
+    <Name>hj</Name>
+    <Email>khkj</Email>
+  </Card>
+  <Card PIN="54ds">
+    <Name>dsg</Name>
+    <Email>dgdfg</Email>
+  </Card>
+</Cards>
